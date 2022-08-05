@@ -3,7 +3,7 @@ package com.cdac.connection;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+//change database name and password
 public class DbConnection {
 
 	public static Connection getDatabaseConnection() {
